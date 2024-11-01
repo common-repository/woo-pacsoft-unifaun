@@ -1,0 +1,447 @@
+# Copyright (C) 2019 Pacsoft/Unifaun integration for WooCommerce
+# This file is distributed under the same license as the Pacsoft/Unifaun integration for WooCommerce package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pacsoft/Unifaun integration for WooCommerce 2.65\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/WooCommerce-"
+"Pacsoft\n"
+"POT-Creation-Date: 2022-12-05 11:27+0100\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: api\n"
+"X-Poedit-SearchPath-3: utils\n"
+"X-Poedit-SearchPath-4: prototypes\n"
+
+#: admin/class-wup-admin-template.php:54
+#: admin/views/class-wup-general-settings.php:16
+#: admin/views/class-wup-general-settings.php:117
+#: admin/views/class-wup-order-settings.php:71
+msgid "General"
+msgstr ""
+
+#: admin/orders/class-wup-admin-order-processing.php:22
+msgid "Unifaun, Bulk print order shipment labels"
+msgstr ""
+
+#: admin/orders/class-wup-admin-order-processing.php:39
+#: class-wup-order-controller.php:181
+msgid "Unifaun PDFs"
+msgstr ""
+
+#: admin/orders/class-wup-admin-order-processing.php:87
+#: class-wup-order-controller.php:95
+msgid "Nothing to merge but 1 file available:"
+msgstr ""
+
+#: admin/orders/class-wup-admin-order-processing.php:250
+msgid "PDF"
+msgstr ""
+
+#: admin/orders/class-wup-admin-order-processing.php:257
+msgid "Direct link"
+msgstr ""
+
+#: admin/orders/class-wup-admin-order-processing.php:272
+msgid "Bulk print shipment labels"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:36
+msgid "Select Pacsoft/Unifaun service"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:37
+msgid "Send order"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:38
+msgid "Choosen service:"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:39
+#: admin/orders/class-wup-admin-template-table.php:48
+msgid "No service selected, please select one in the list below."
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:40
+msgid "Search services"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:45
+#, php-format
+msgid "Sync order %d to Pacsoft/Unifaun"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:46
+#: admin/orders/class-wup-admin-template-table.php:84
+msgid "Print Pacsoft/Unifaun order"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:61 class-wup-plugin.php:237
+msgid "Pacsoft/Unifaun"
+msgstr ""
+
+#: admin/orders/class-wup-admin-template-table.php:80
+msgid "Sync order to Pacsoft/Unifaun"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:18
+msgid "Customs"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:25
+msgid "Customs Declaration"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:33
+msgid "Send customs declaration"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:47
+msgid "Document number"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:56
+msgid "Default customs declaration description"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:65
+msgid "Create customs declaration if cart value is over given value"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:75
+msgid "Customs weight unit"
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:80
+#: admin/views/class-wup-customs-settings.php:103
+#: admin/views/class-wup-general-settings.php:45
+#: admin/views/class-wup-order-settings.php:153
+#: admin/views/class-wup-order-settings.php:219
+#: admin/views/class-wup-order-settings.php:243
+msgid "Please select..."
+msgstr ""
+
+#: admin/views/class-wup-customs-settings.php:98
+msgid "Import/Export Type"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:23
+msgid "Account"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:27
+msgid "Support"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:31
+msgid "FAQ"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:40
+msgid "Account type"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:70
+msgid "Credentials OnlineConnect"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:78
+msgid "User"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:86
+msgid "Password"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:93
+msgid "Credentials APIConnect"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:94
+msgid ""
+"If you want to use Unifaun/Pacsoft features like Track and trace and "
+"printing from WooCommerce order listing please add Credentials to your "
+"Unifaun/Pacsoft account under <b>Credentials Unifaun/Pacsoft</b>"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:102
+msgid "API ID"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:110
+msgid "API Secret ID"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:125
+msgid "API license key"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:126
+msgid "The license key you received from Wetail"
+msgstr ""
+
+#: admin/views/class-wup-general-settings.php:130
+msgid "Buy"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:18
+msgid "Order"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:25
+msgid "Order Mapping"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:33
+msgid "Map services"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:43
+msgid "Shipping Method"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:49
+msgid "Service"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:55
+msgid "Sender Quick Value"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:64
+msgid ""
+"NOTE: Remember to set your customer number for each service added in the "
+"list above in Pacsoft/Unifaun Admin &#8594; Maintenance &#8594; Senders "
+"&#8594; Search (sender quick value) &#8594; Edit<br>"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:79
+msgid "Base country"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:84
+msgid "Sweden, SE"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:88
+msgid "Norway, NO"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:92
+msgid "Denmark, DK"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:102
+msgid ""
+"This setting will apply the given favorite printing template when the order "
+"is synchronized. You will find your favorite templates in nShift interface. "
+"Shipment->Printing favorites"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:103
+msgid "Favorite"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:111
+msgid "Prefix added to order number"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:119
+msgid ""
+"The default product description that will be used in the printing label."
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:120
+msgid "Default product type"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:129
+msgid ""
+"The minimum order weight sent to the stored shipment. This setting is handy "
+"when you have not assigned any weight on your products as many freight "
+"companies does not allow orders without any weight and will hence "
+"invalidate the order.."
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:130
+msgid "Default minimum Order weight (grams)"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:138
+msgid ""
+"The default sender quick id. You can find your default sender quick ids in "
+"nShift interface. Maintenance->Sender"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:139
+msgid "Default sender quick id"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:148
+msgid "Send on order status"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:157
+#: admin/views/class-wup-order-settings.php:223
+msgid "Processing"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:161
+#: admin/views/class-wup-order-settings.php:227
+msgid "Completed"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:171
+msgid "More options"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:175
+msgid "Show options when syncing (disables auto-sync)"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:179
+msgid "Send SMS notification (Addon)"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:183
+msgid "Send email notification (Addon)"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:187
+msgid "Send pre-notification by e-mail (Addon)"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:191
+msgid "Print freight label per item in a box"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:195
+msgid "Send single package per order"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:199
+msgid "Add return labels to order"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:203
+msgid "Activate log file"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:213
+msgid ""
+"Please note that you need to have the nShift Track & Trace service active."
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:214
+msgid "Send track link to customer on order status"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:237
+msgid "Printer type"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:238
+msgid "The type of printer you use to print the shipping label."
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:247
+msgid "Etikett"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:251
+msgid "A4"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:255
+msgid "Single A5 label."
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:259
+msgid "Two A5 labels on a  A4-sheet"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:263
+msgid "Normal A4"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:267
+msgid "107 x 251 mm thermo label"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:271
+msgid "107 x 72 mm thermo label"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:275
+msgid "107 x 165 mm thermo label"
+msgstr ""
+
+#: admin/views/class-wup-order-settings.php:279
+msgid "107 x 190 mm thermo label"
+msgstr ""
+
+#: api/class-wup-payload-json.php:166 api/class-wup-payload-xml.php:33
+msgid "No shipping and service ID specified for the selected order."
+msgstr ""
+
+#: api/class-wup-payload-json.php:176 api/class-wup-payload-xml.php:44
+msgid "No service ID specified for the selected order."
+msgstr ""
+
+#: api/class-wup-payload.php:32
+msgid "No services defined! Check your settings."
+msgstr ""
+
+#: class-wup-ajax.php:37 class-wup-ajax.php:60
+msgid "Missing order ID."
+msgstr ""
+
+#: class-wup-ajax.php:52
+msgid "Order successfully synchronised."
+msgstr ""
+
+#: class-wup-order-controller.php:32
+msgid "Fetch Unifaun shipment labels in a single PDF file"
+msgstr ""
+
+#: class-wup-order-controller.php:243
+msgid "Order already synced to Pacsoft/Unifaun."
+msgstr ""
+
+#: class-wup-plugin.php:92
+msgid "Track your parcel"
+msgstr ""
+
+#: class-wup-plugin.php:236
+msgid "WooCommerce Pacsoft/Unifaun integration"
+msgstr ""
+
+#: class-wup-plugin.php:297
+msgid "Save changes"
+msgstr ""
+
+#: class-wup-plugin.php:309
+msgid "Unifaun Customs Code"
+msgstr ""
+
+#: class-wup-plugin.php:323
+msgid "Taricnummer. Ett 8 siffrors nummer som fås av tullen."
+msgstr ""
+
+#: class-wup-track-shipment.php:36
+msgid "Follow your package "
+msgstr ""
+
+#: class-wup-track-shipment.php:36
+msgid "here"
+msgstr ""

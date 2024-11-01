@@ -1,0 +1,29 @@
+BCNOINT	Bring Cargo Norge (International)	BCNOINTFULL	Bring Cargo Full Load	NO	*
+BCNOINT	Bring Cargo Norge (International)	BCNOINTGRP	Bring Cargo Stykkgods	NO	*
+BCNOINT	Bring Cargo Norge (International)	BCNOINTGRP	Bring Cargo Stykkgods	NO	*
+BL	Bring Cargo Norge (Innenlands)	BLFULL	Bring Cargo Full Load	NO	NO
+BL	Bring Cargo Norge (Innenlands)	BLSGD	Bring Cargo Stykkgods	NO	NO
+BM	Bring Mail (Norge)	BMNOPIPA	Bring Mail Pakker i Postkassen A-post	NO	NO
+BM	Bring Mail (Norge)	BMNOPIPB	Bring Mail Pakker i Postkassen B-post	NO	NO
+BM	Bring Mail (Norge)	BMNOPIPAR	Bring Pakke i Postkassen RFID A-post	NO	NO
+BM	Bring Mail (Norge)	BMNOPIPBR	Bring Pakke i Postkassen RFID B-post	NO	NO
+BM	Bring Mail (Norge)	BMNOSPEC	Bring Mail Småpakker Economy	NO	*
+BM	Bring Mail (Norge)	BMNOSPPR	Bring Mail Småpakker Priority	NO	*
+BP	Bring Parcels Norge (innenlands)	BPBDD	Bring Bedriftspakke	NO	NO, SJ
+BP	Bring Parcels Norge (innenlands)	BPBE09	Bring Bedriftspakke Ekspress over natt - 0900	NO	NO, SJ
+BP	Bring Parcels Norge (innenlands)	BPSP	Bring Klimanøytral Servicepakke	NO	NO, SJ
+BP	Bring Parcels Norge (innenlands)	BPPD	Bring Pakke på Døren	NO	NO, SJ
+BP	Bring Parcels Norge (innenlands)	BPRETB	Bring Returservice Bedriftspakke	NO	NO, SJ
+BP	Bring Parcels Norge (innenlands)	BPSPR	Bring Returservice Servicepakke	NO	NO, SJ
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO336	Bring Business Pallet	NO	AT, AX, BE, CH, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GI, GR, HU, IE, IS, IT, LT, LU, LV, NL, PL, PT, SE, SI, SK
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO330	Bring Business Parcel	NO	AR, AT, AU, AX, BE, BG, BR, BY, CA, CH, CL, CN, CU, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GL, GR, HK, HR, HU, ID, IE, IN, IS, IT, JP, KR, LT, LU, LV, MC, ME, MT, MY, NL, NZ, PH, PL, PT, RO, RS, RU, SA, SE, SG, SI, SK, TH, TR, TW, UA, US, ZA
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO332	Bring Business Parcel Bulk	NO	DE, DK, EE, FI, FO, GB, GG, IM, IS, JE, NL, SE
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO331	Bring Business Parcel Return	NO	DK, FI, NO, SE
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO333	Bring Business Parcel Return Bulk	NO	DK, FI, NO, SE
+PNLNO	Bring Parcels Norge (utenlands)	PNLNOWAY	Bring CarryOn Waybill	NO	*
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO334	Bring Express Nordic 09:00 Bulk	NO	SE
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO349	Bring Home Delivery Parcel	NO	DK, FI, SE
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO340	Bring PickUp Parcel	NO	AT, BE, CH, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GL, GR, HU, IE, IT, LT, LU, LV, NL, PL, PT, SE, SI, SK, US
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO342	Bring PickUp Parcel Bulk	NO	DE, DK, EE, FI, FO, GB, IS, NL, SE
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO341	Bring PickUp Parcel Return	NO	DK, FI, NO, SE
+PNLNO	Bring Parcels Norge (utenlands)	PNLNO343	Bring PickUp Parcel Return Bulk	NO	DK, FI, NO, SE

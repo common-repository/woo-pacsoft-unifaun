@@ -1,0 +1,19 @@
+{
+    "name": "wetail/woocommerce-pacsoft",
+    "description": "Pacsoft integration for Woocommerce",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "wetail",
+            "email": "support@wetail.se"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.23.0",
+        "namshi/cuzzle": "2.0.3",
+        "psr/http-message": "1.0.1",
+        "psr/log": "1.0.2",
+        "iio/libmergepdf": "^4.0",
+        "mustache/mustache": "2.9.0"
+    }
+}
